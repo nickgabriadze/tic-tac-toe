@@ -1,2 +1,2 @@
 # TicTacToe
-Basic TicTacToe in pygame
+Basic TicTacToe written in pygame
